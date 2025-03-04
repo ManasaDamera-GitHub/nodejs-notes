@@ -41,9 +41,8 @@ res.send(data)
 
 difference between read file and appendFile:
 
-readFile will replace the old data with new data.if there is no file exist then it will create and add data in that file
+readFile will replace the old data with new data.if there is no file exist then it will create and add data in that file.where as append file will add new to to the old data.
 
-where as append file will add new to to the old data 
 
 
 
