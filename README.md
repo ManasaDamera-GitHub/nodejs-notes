@@ -43,6 +43,11 @@ difference between read file and appendFile:
 
 readFile will replace the old data with new data.if there is no file exist then it will create and add data in that file.where as append file will add new to to the old data.
 
+5/3/25
+----------
+MIDDLEWARES IN EXPRESS
+--------------------------
+ It plays a vital role in the request-response cycle. They are functions that have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle.
 
 
 
